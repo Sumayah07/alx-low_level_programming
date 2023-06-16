@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - empty parameters
+ * main - print the phrase "Programming is like building a multilingual puzzle
  * return = always 0 (success)
  */
 int main(void)
