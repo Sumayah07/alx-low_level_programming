@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
+/**
+ * main - print the string in the function
  * assign a random number to the variable n
  * if the number is greater than 0: is positive
  * if the number is 0: is zero
@@ -27,3 +28,4 @@ int main(void)
 	}
 	return (0);
 }
+
