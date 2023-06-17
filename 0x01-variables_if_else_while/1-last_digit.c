@@ -2,13 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main = prints the last digit of a randomly generated number
+ * main - prints the last digit of a randomly generated number
  * assign a random number to the variable n
  * if the last digit of n is greater than 5
  * if the last digit of n is 0
  * if the last digit of n is less than 6 and not 0
  * followed by a new line
- * Return =always return 0
+ * Return: always return 0
  */
 int main(void)
 {
